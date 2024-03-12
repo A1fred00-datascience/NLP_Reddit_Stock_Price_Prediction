@@ -31,8 +31,4 @@ This project explores the impact of news headlines on stock market trends, speci
 ## Conclusion
 This project is a deep dive into how news sentiment correlates with stock market behaviors. Through comprehensive analysis and machine learning, it offers insights into the predictive power of news sentiment on stock movements, presenting a novel approach to financial market prediction.
 
-**Note:** This project is based on my personal data exploration and analysis journey. It is for educational purposes and not intended as financial advice.
-
----
-
-*This project reflects my fascination with the intersection of finance, news media, and data science. The methodologies and findings herein are my contributions to understanding the complex dynamics at play in financial markets influenced by global news sentiment.*
+**Note:** This project is based on my personal data exploration and analysis journey. It is for my own educational purposes and not intended as financial advice.
