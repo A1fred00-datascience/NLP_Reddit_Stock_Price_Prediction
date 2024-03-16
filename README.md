@@ -1,4 +1,4 @@
-# Stock Market Prediction from Reddit News Headlines
+# Stock Market Prediction from Reddit News through NLP
 
 ## Overview
 This project explores the impact of news headlines on stock market trends, specifically analyzing the relationship between the sentiment of top headlines from Reddit's WorldNews channel and the Dow Jones Industrial Average (DJIA) movements. The aim is to identify if news sentiment can predict stock price fluctuations.
